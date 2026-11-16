@@ -19,7 +19,7 @@ brand material, no credentials — only the method survived (see
 | `checklists/cantonese-grammar-checklist.md` | Two-layer quality checklist for colloquial written Cantonese (skip if not your language) |
 | `checklists/pre-publish-checklist.md` | Final pass before anything goes into the publish calendar |
 | `DEIDENTIFY-REPORT.md` | Exactly what was removed or placeholder-ized, and from which source files |
-| `LICENSE` | Pending — recommended CC BY 4.0 |
+| `LICENSE` | CC BY 4.0 — reuse and adapt with attribution |
 
 ## Who it's for
 
@@ -48,7 +48,7 @@ brand material, no credentials — only the method survived (see
 - **Placeholders must be filled** (`{{...}}`) before the bot instructions work for your brand.
 - **The Cantonese checklist is language-specific.** Skip it for other languages.
 - **A human approver must exist.** This is a human-in-the-loop pipeline, not an autonomous one.
-- **License is pending** — see `LICENSE`. Do not redistribute until it is set.
+- **CC BY 4.0 requires attribution** — keep the credit and link when you reuse or adapt (see `LICENSE`).
 
 ---
 
@@ -77,7 +77,7 @@ brand material, no credentials — only the method survived (see
 - **佔位符要填**：`{{...}}` 唔填，bot 指示唔會啱你個品牌用。
 - **粵語檢查表只啱粵語內容**：其他語言跳過佢。
 - **假設有人手審批者**：呢條 pipeline 唔係全自動。
-- **授權未定**：見 `LICENSE`；確定之前唔好公開分發。
+- **CC BY 4.0 要署名**：轉用或改作要保留出處（見 `LICENSE`）。
 
 ---
 
